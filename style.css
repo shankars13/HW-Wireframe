@@ -1,0 +1,70 @@
+/** Style.css **/
+
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+.container {
+}
+body {
+	background: #777;
+	width:960px;
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+header, nav, footer {
+	background: #ebebeb;
+	padding:25px;
+	margin:10px 140px;
+
+	width: 700px;
+	color: #777;
+}
+
+section {
+	height: 220px;
+	width:490px;
+	float:left;
+	margin-left: 140px;
+	margin-right:15px;
+	background: #ebebeb;
+	margin-bottom: 10px;
+	color : #777;
+	padding:20px;
+}
+
+aside {
+	height: 220px;
+	width: 195px;
+	float: left;
+	background: #ebebeb;
+	margin-bottom: 10px;
+	color :#777;
+}
+article {
+	height: 130px;
+	background: #777;
+	margin:40px 10px 0 10px;
+	color:white;
+}
+
+h3 {
+	margin : 25px 15px 5px 15px;
+	height: 35px;
+	background: white;
+	color:#777;
+}
+
+p{
+	margin:10px 15px 15px 15px;
+	height: 35px;
+	background:white;
+	color:#777;
+}
+
+footer {
+	clear:both;
+	overflow:auto;
+}
