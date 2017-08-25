@@ -38,6 +38,7 @@ section {
 aside {
 	height: 220px;
 	width: 195px;
+	padding:20px;
 	float: left;
 	background: #ebebeb;
 	margin-bottom: 10px;
